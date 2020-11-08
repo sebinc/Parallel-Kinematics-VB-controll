@@ -1,0 +1,51 @@
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.exe.config
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.exe.manifest
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.application
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.exe
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.pdb
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.xml
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Emgu.CV.dll
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Emgu.Util.dll
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.vbprojResolveAssemblyReference.cache
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel_Kinematics.main.resources
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel_Kinematics.Resources.resources
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.vbproj.GenerateResource.Cache
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.exe.manifest
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.application
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.exe
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.xml
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.pdb
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel_Kinematics.about.resources
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.exe.config
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.exe
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.xml
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.pdb
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.exe.manifest
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.application
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.exe
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.pdb
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.xml
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.vbprojResolveAssemblyReference.cache
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel_Kinematics.about.resources
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel_Kinematics.main.resources
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel_Kinematics.Resources.resources
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.vbproj.GenerateResource.Cache
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.exe.manifest
+D:\MAIN PROJECT\Visual Basic 2013\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.application
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.exe.config
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.exe
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.xml
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.pdb
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.vbprojResolveAssemblyReference.cache
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel_Kinematics.about.resources
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel_Kinematics.main.resources
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel_Kinematics.Resources.resources
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.vbproj.GenerateResource.Cache
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.exe.manifest
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.application
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.exe
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.pdb
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Debug\Parallel Kinematics.xml
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.exe.manifest
+X:\0_VISUAL STUDIO\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Debug\Parallel Kinematics.application

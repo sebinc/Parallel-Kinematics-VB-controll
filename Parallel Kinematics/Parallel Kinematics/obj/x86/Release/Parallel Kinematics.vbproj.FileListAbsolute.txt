@@ -1,0 +1,14 @@
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Release\Parallel Kinematics.exe.config
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Release\Parallel_Kinematics.main.resources
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Release\Parallel_Kinematics.Resources.resources
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Release\Parallel Kinematics.vbproj.GenerateResource.Cache
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Release\Parallel Kinematics.exe
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Release\Parallel Kinematics.pdb
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Release\Parallel Kinematics.xml
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Release\Emgu.CV.dll
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Release\Emgu.CV.UI.dll
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\bin\x86\Release\Emgu.Util.dll
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Release\Parallel Kinematics.exe
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Release\Parallel Kinematics.xml
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Release\Parallel Kinematics.pdb
+C:\Users\Sebin\Documents\Visual Studio 2013\Projects\Parallel Kinematics\Parallel Kinematics\obj\x86\Release\Parallel Kinematics.vbprojResolveAssemblyReference.cache
